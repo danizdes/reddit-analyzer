@@ -41,6 +41,6 @@ Copy the client id, client secret and you're reddit username and add it to the .
 Ensure you have [Jupyter](https://jupyter.org/) installed and launch the ```analysis.ipynb``` file using Jupyter or 
 another suitable software
 
-Execute all the code and repeat with the ```data_processing.ipynb`` file.
+Execute all the code and repeat with the ```data_processing.ipynb``` file.
 
 This should create identical .csv files in the ```data``` folder with updated information.
